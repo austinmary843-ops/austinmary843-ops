@@ -4,7 +4,7 @@ I am a Customer Support & CRM Professional specializing in support automation, w
 🛠️ My Toolkit
 CRM & Help Desks: Zendesk, Freshdesk
 
-Automation & Data: Zapier, Advanced Excel
+Automation & Data: Zapier
 
 Project Management: monday.com, Trello
 
